@@ -1,0 +1,6 @@
+{
+  "name": "Mars Land - Max Profit Simulator",
+  "description": "Interactive algorithm solver, timeline visualizer, and colony simulator for the Mars Land Max Profit Problem.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
